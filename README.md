@@ -24,6 +24,10 @@ Sample Queries
 - what is your name
 - help
 - bye
+  
+Reference
+
+![Image](https://github.com/user-attachments/assets/e0744227-37f0-43f3-94ad-4ba9f2ae2bfc)
 
 Completed By
 Mohammad Rizwan  
